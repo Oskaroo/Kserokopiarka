@@ -3,7 +3,7 @@ using ver1;
 
 namespace Kserokopiarka
 {
-    public class Copier : IDevice
+    public class Copier : IDevice   //Klasa kopier
     {
         private int printCounter;
         private int scanCounter;
