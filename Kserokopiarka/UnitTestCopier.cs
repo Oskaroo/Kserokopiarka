@@ -3,7 +3,7 @@ using ver1;
 using System;
 using System.IO;
 using Kserokopiarka;
-
+//testy zadanie 1
 namespace ver1UnitTests
 {
 
